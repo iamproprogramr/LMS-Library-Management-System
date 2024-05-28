@@ -28,7 +28,7 @@ git clone https://github.com/iamproprogramr/LMS-Library-Management-System.git
 2. Navigate to the project directory.
 
 ```bash
-cd library-management-system
+cd LMS-Library-Management-System
 ```
 
 ### Running the Program
