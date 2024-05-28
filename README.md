@@ -58,7 +58,7 @@ The following screenshots demonstrate the interface and functionality of the Lib
 
 - **Book Issuance Interface**:
 
-![Book Issuance](Output.png)
+![Book Issuance](output.png)
 
 
 ## Contact
