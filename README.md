@@ -54,9 +54,9 @@ The main components of the code include:
 
 ## Output Examples
 
-The following screenshots demonstrate the interface and functionality of the Library Management System:
+The following screenshot demonstrate the interface and functionality of the Library Management System:
 
-- **Book Issuance Interface**:
+- **Main screen**:
 
 ![Book Issuance](output.png)
 
